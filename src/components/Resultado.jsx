@@ -12,8 +12,6 @@ const Resultado = () => {
   const temperaturaMaxima = (main.temp_max - kelvin).toFixed(2); 
   const temperaturaMinima = (main.temp_min - kelvin).toFixed(2); 
 
-
-  console.log( resultado );
     return (
         <div className="contenedor clima">
             <h2>{ name }</h2>
