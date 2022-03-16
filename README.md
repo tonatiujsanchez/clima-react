@@ -11,4 +11,10 @@
 
 &nbsp; 
 
+~~~ 
+API: https://openweathermap.org
+~~~
+
+&nbsp;
+
 ![](./src/img/clima-react.jpg)
